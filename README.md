@@ -1,2 +1,2 @@
 # quiz
-Desafio prático de Javascript referente ao curso B7Web, reproduzindo um quiz.
+Practical Javascript challenge referring to the B7Web course, playing a quiz.
